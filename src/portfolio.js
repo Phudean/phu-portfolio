@@ -266,13 +266,25 @@ const talkSection = {
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
+      title: "Trí tuệ nhân tạo và ứng dụng của nó",
+      subtitle: "",
       slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
-    }
+      event_url: "https://husta.vn/tri-tue-nhan-tao-ai-va-nhung-ung-dung-thuc-te-cua-ai-trong-doi-song"
+    },
+    {
+      title: "Cách tự học lập trình trí tuệ nhân tạo ",
+      subtitle: "",
+      slides_url: "https://bit.ly/saadpasta-slides",
+      event_url: "https://vinuni.edu.vn/vi/tu-hoc-lap-trinh-tri-tue-nhan-tao-cho-nguoi-moi-bat-dau"
+    },
+    {
+      title: "KHMT và cơ hội nghề nghiệp",
+      subtitle: "",
+      slides_url: "https://bit.ly/saadpasta-slides",
+      event_url: "https://vinuni.edu.vn/vi/nganh-khoa-hoc-may-tinh-ra-lam-gi-muc-luong-va-co-hoi-nghe-nghiep-ra-sao"
+    }    
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
