@@ -36,10 +36,8 @@ const socialMediaLinks = {
   github: "https://github.com/Phudean",
   linkedin: "https://www.linkedin.com/in/phu-ngo-xuan-612836305",
   gmail: "ngoxuanphunan@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
+  gitlab: "https://gitlab.com/Phudean",
   facebook: "https://www.facebook.com/phu.dean.2024",
-  medium: "medium.com/@phudean",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
