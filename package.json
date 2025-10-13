@@ -1,6 +1,6 @@
 {
-  "homepage": "https://developerfolio.js.org/",
-  "name": "developerfolio",
+  "homepage": "https://phudean.js.org/",
+  "name": "My Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
