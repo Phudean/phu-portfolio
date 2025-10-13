@@ -261,7 +261,7 @@ const blogSection = {
 const talkSection = {
   title: "TALKS",
   subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+    "Một số thứ mình thấy thú vị muốn chia sẻ 😅"
   ),
 
   talks: [
