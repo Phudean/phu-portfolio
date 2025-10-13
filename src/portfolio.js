@@ -51,13 +51,9 @@ const skillsSection = {
   title: "<Mình đang làm gì ?>",
   subTitle: "Mình chỉ là sinh viên mới bắt đầu hành trình liên quan tới IT ^^",
   skills: [
-    emoji(
-      "⚡ Thiết kế UI/UX cho server Minecraft"
-    ),
+    emoji("⚡ Thiết kế UI/UX cho server Minecraft"),
     emoji("⚡ Lập trình bot Discord đơn giản (Node.js, Python)"),
-    emoji(
-      "⚡ Xây dựng website cá nhân bằng React & GitHub Pages"
-    )
+    emoji("⚡ Xây dựng website cá nhân bằng React & GitHub Pages")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -99,9 +95,7 @@ const educationInfo = {
       subHeader: "Master of Science in Computer Science",
       duration: "September 2025 - present",
       desc: "",
-      descBullets: [
-        
-      ]
+      descBullets: []
     }
   ]
 };
@@ -210,8 +204,7 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Thành tựu và chứng chỉ 🏆 "),
-  subtitle:
-    "Những thành tựu mà mình đã đạt được !",
+  subtitle: "Những thành tựu mà mình đã đạt được !",
 
   achievementsCards: [
     {
@@ -225,13 +218,11 @@ const achievementSection = {
           name: "XEM CHỨNG CHỈ",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
         }
-
       ]
     },
     {
       title: "Engaging Stakeholders for Success",
-      subtitle:
-          "",
+      subtitle: "",
       image: require("./assets/images/cisco.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -239,7 +230,6 @@ const achievementSection = {
           name: "XEM CHỨNG CHỈ",
           url: "https://www.credly.com/badges/0d0b8b1a-ed4b-4792-8fed-e8b174827ae0/public_url"
         }
-
       ]
     }
   ],
@@ -250,15 +240,13 @@ const achievementSection = {
 
 const blogSection = {
   title: "Blogs",
-  subtitle:
-    "",
+  subtitle: "",
   displayMediumBlogs: false, // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
       url: "https://telegra.ph/MY-MINI-BLOG-10-13-2",
       title: "Giới thiệu",
-      description:
-        "Một chút giới thiệu về mình"
+      description: "Một chút giới thiệu về mình"
     },
     {
       url: "https://telegra.ph/Cách-mình-học-lập-trình-bot-Discord-10-13",
